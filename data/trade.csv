@@ -1,0 +1,37 @@
+year,importer1,importer2,flow1,flow2
+2009,"Panama","Peru",100.93,128.14
+2009,"Panama","Paraguay",6.7,3.16
+2009,"Panama","Portugal",9.13,4.68
+2009,"Panama","Poland",41.48,12.35
+2009,"Panama","Pakistan",8.53,.05
+2009,"Panama","Philippines",8.45,4.81
+2009,"Panama","Papua New Guinea",0,0
+2009,"Panama","Palau",0,0
+2009,"Peru","Paraguay",191.68,3.01
+2009,"Peru","Portugal",12.52,19.58
+2009,"Peru","Poland",15.87,17.35
+2009,"Peru","Pakistan",16.94,2.77
+2009,"Peru","Philippines",13.31,105.38
+2009,"Peru","Papua New Guinea",0,.01
+2009,"Peru","Palau",0,0
+2009,"Paraguay","Portugal",2.03,1.51
+2009,"Paraguay","Poland",.99,18.7
+2009,"Paraguay","Pakistan",4.63,1.09
+2009,"Paraguay","Philippines",.6,.24
+2009,"Paraguay","Papua New Guinea",0,0
+2009,"Paraguay","Palau",0,0
+2009,"Portugal","Poland",453.44,347.84
+2009,"Portugal","Pakistan",114.25,19.49
+2009,"Portugal","Philippines",14.82,3.26
+2009,"Portugal","Papua New Guinea",.74,0
+2009,"Portugal","Palau",0,0
+2009,"Poland","Pakistan",48.47,55.79
+2009,"Poland","Philippines",63.25,11.69
+2009,"Poland","Papua New Guinea",1.46,.07
+2009,"Poland","Palau",0,0
+2009,"Pakistan","Philippines",36.17,51.25
+2009,"Pakistan","Papua New Guinea",.25,.11
+2009,"Pakistan","Palau",.04,0
+2009,"Philippines","Papua New Guinea",252.05,11.2
+2009,"Philippines","Palau",.25,1.63
+2009,"Papua New Guinea","Palau",0,0

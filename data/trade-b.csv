@@ -1,0 +1,137 @@
+year,importer1,importer2,flow1,flow2
+2009,"Bahamas","Barbados",4.34,.22
+2009,"Bahamas","Belize",.06,.85
+2009,"Bahamas","Brazil",84.84,2.78
+2009,"Bahamas","Bolivia",.08,.05
+2009,"Bahamas","Belgium",3.63,11.39
+2009,"Bahamas","Bosnia and Herzegovina",0,0
+2009,"Bahamas","Bulgaria",1.8,.72
+2009,"Bahamas","Belarus",0,.06
+2009,"Bahamas","Benin",0,0
+2009,"Bahamas","Burkina Faso",0,0
+2009,"Bahamas","Burundi",0,0
+2009,"Bahamas","Botswana",0,0
+2009,"Bahamas","Bahrain",0,.13
+2009,"Bahamas","Bhutan",0,0
+2009,"Bahamas","Bangladesh",0,0
+2009,"Bahamas","Brunei",0,0
+2009,"Barbados","Belize",1.95,2.6
+2009,"Barbados","Brazil",19.6,1.42
+2009,"Barbados","Bolivia",.82,0
+2009,"Barbados","Belgium",4.33,.03
+2009,"Barbados","Bosnia and Herzegovina",0,.01
+2009,"Barbados","Bulgaria",.62,.01
+2009,"Barbados","Belarus",0,.01
+2009,"Barbados","Benin",0,0
+2009,"Barbados","Burkina Faso",0,0
+2009,"Barbados","Burundi",0,0
+2009,"Barbados","Botswana",0,0
+2009,"Barbados","Bahrain",.04,0
+2009,"Barbados","Bhutan",0,0
+2009,"Barbados","Bangladesh",0,0
+2009,"Barbados","Brunei",0,0
+2009,"Belize","Brazil",4.4,.3
+2009,"Belize","Bolivia",.01,0
+2009,"Belize","Belgium",5.26,1.32
+2009,"Belize","Bosnia and Herzegovina",0,0
+2009,"Belize","Bulgaria",1.09,.48
+2009,"Belize","Belarus",1.84,.03
+2009,"Belize","Benin",0,0
+2009,"Belize","Burkina Faso",0,0
+2009,"Belize","Burundi",0,0
+2009,"Belize","Botswana",0,0
+2009,"Belize","Bahrain",0,0
+2009,"Belize","Bhutan",0,0
+2009,"Belize","Bangladesh",0,0
+2009,"Belize","Brunei",0,.12
+2009,"Brazil","Bolivia",1558.5,1008.83
+2009,"Brazil","Belgium",1282.04,2537.43
+2009,"Brazil","Bosnia and Herzegovina",1.66,18.92
+2009,"Brazil","Bulgaria",32.41,195.74
+2009,"Brazil","Belarus",539.4,118.45
+2009,"Brazil","Benin",0,159.11
+2009,"Brazil","Burkina Faso",.14,22
+2009,"Brazil","Burundi",0,.23
+2009,"Brazil","Botswana",.3,.9
+2009,"Brazil","Bahrain",1.67,247.53
+2009,"Brazil","Bhutan",0,0
+2009,"Brazil","Bangladesh",82.4,392.98
+2009,"Brazil","Brunei",0,.72
+2009,"Bolivia","Belgium",18.98,52.6
+2009,"Bolivia","Bosnia and Herzegovina",0,0
+2009,"Bolivia","Bulgaria",.05,0
+2009,"Bolivia","Belarus",0,.29
+2009,"Bolivia","Benin",0,0
+2009,"Bolivia","Burkina Faso",0,0
+2009,"Bolivia","Burundi",0,0
+2009,"Bolivia","Botswana",0,0
+2009,"Bolivia","Bahrain",0,0
+2009,"Bolivia","Bhutan",.04,0
+2009,"Bolivia","Bangladesh",0,0
+2009,"Bolivia","Brunei",0,0
+2009,"Belgium","Bosnia and Herzegovina",26.35,60.88
+2009,"Belgium","Bulgaria",1083.39,398.21
+2009,"Belgium","Belarus",89.21,224.53
+2009,"Belgium","Benin",4.3,234.56
+2009,"Belgium","Burkina Faso",62.63,55.98
+2009,"Belgium","Burundi",10.2,39.08
+2009,"Belgium","Botswana",112.69,45.34
+2009,"Belgium","Bahrain",8.85,82.35
+2009,"Belgium","Bhutan",.05,.34
+2009,"Belgium","Bangladesh",490.6,111.24
+2009,"Belgium","Brunei",.01,7.35
+2009,"Bosnia and Herzegovina","Bulgaria",62.96,6.04
+2009,"Bosnia and Herzegovina","Belarus",3.09,.25
+2009,"Bosnia and Herzegovina","Benin",0,0
+2009,"Bosnia and Herzegovina","Burkina Faso",0,0
+2009,"Bosnia and Herzegovina","Burundi",0,0
+2009,"Bosnia and Herzegovina","Botswana",0,0
+2009,"Bosnia and Herzegovina","Bahrain",0,.45
+2009,"Bosnia and Herzegovina","Bhutan",0,0
+2009,"Bosnia and Herzegovina","Bangladesh",0,0
+2009,"Bosnia and Herzegovina","Brunei",0,0
+2009,"Bulgaria","Belarus",16.14,36.84
+2009,"Bulgaria","Benin",.38,3.7
+2009,"Bulgaria","Burkina Faso",0,.06
+2009,"Bulgaria","Burundi",0,.17
+2009,"Bulgaria","Botswana",0,0
+2009,"Bulgaria","Bahrain",.04,.59
+2009,"Bulgaria","Bhutan",0,0
+2009,"Bulgaria","Bangladesh",2.21,2.09
+2009,"Bulgaria","Brunei",0,0
+2009,"Belarus","Benin",0,1.48
+2009,"Belarus","Burkina Faso",0,0
+2009,"Belarus","Burundi",0,0
+2009,"Belarus","Botswana",0,0
+2009,"Belarus","Bahrain",0,0
+2009,"Belarus","Bhutan",.01,0
+2009,"Belarus","Bangladesh",4.6,75.61
+2009,"Belarus","Brunei",0,.03
+2009,"Benin","Burkina Faso",18.26,10.77
+2009,"Benin","Burundi",0,0
+2009,"Benin","Botswana",0,0
+2009,"Benin","Bahrain",7.19,0
+2009,"Benin","Bhutan",0,0
+2009,"Benin","Bangladesh",.18,2.93
+2009,"Benin","Brunei",.04,0
+2009,"Burkina Faso","Burundi",0,0
+2009,"Burkina Faso","Botswana",0,0
+2009,"Burkina Faso","Bahrain",.01,3.47
+2009,"Burkina Faso","Bhutan",0,0
+2009,"Burkina Faso","Bangladesh",0,6.81
+2009,"Burkina Faso","Brunei",0,0
+2009,"Burundi","Botswana",0,0
+2009,"Burundi","Bahrain",0,0
+2009,"Burundi","Bhutan",0,0
+2009,"Burundi","Bangladesh",0,0
+2009,"Burundi","Brunei",0,0
+2009,"Botswana","Bahrain",0,0
+2009,"Botswana","Bhutan",0,0
+2009,"Botswana","Bangladesh",0,0
+2009,"Botswana","Brunei",0,0
+2009,"Bahrain","Bhutan",.08,0
+2009,"Bahrain","Bangladesh",1.8,3.32
+2009,"Bahrain","Brunei",.02,.01
+2009,"Bhutan","Bangladesh",2.9,11.5
+2009,"Bhutan","Brunei",0,0
+2009,"Bangladesh","Brunei",.33,.13
